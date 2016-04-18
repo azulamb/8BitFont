@@ -1,21 +1,20 @@
-# 9dotsfont
+# 8BitFont
 
-    ### 　　##  ### ###  ## 　 ### ### ##  ###
-    ### 　　# # # #  #   #  　 ##  # # # #  # 
-     ## 　　### ###  #  ##  　 #   ### # #  # 
+  #     #        #  #    
+    #  #  ## ## ## ## ## 
+ #   # #  #   # ## ## #  
+ #      # #      #    #  
 
-ASCII font in 3x3 pixels.
+ASCII font in 2x4 pixels.
 
 ## Github-pages
 
-* [9dots Font](http://hirokimiyaoka.github.io/9dotsfont/)
+* [8BitFont](http://hirokimiyaoka.github.io/8BitFont/)
 
 ## Type
 
-* 9dots
+* 8BitFont
 	* Monospaced font
-* 9dotsP
-	* Proportional font
-* 9dotsM
+* 8BitMin
 	* Minimum font
 
